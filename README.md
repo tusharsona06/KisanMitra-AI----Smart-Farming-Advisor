@@ -1,4 +1,4 @@
-# 🌾 KisanMitra AI (किसान मित्र) — Project Sanjeevani
+# 🌾 KisanMitra AI (किसान मित्र)
 ### *Next-Generation Autonomous Resilience Mesh & Multimodal Agro-Advisory Ecosystem*
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-emerald?style=for-the-badge&logo=vite)](https://github.com/kunalj2558/kisan_mitra)
